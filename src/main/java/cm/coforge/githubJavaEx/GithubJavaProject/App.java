@@ -18,7 +18,7 @@ public class App
         switch(sc.nextInt()) {
         case 1:
         e.addEmp();
-        break;
+        
         case 2:
         e.displayEmp();
         break;
